@@ -13,15 +13,21 @@
 ###  配置 Appium连接模拟器
 1. 确保本地的python版本为3.9+；
 2.  使用以下命令安装 Appium，
+```
     pip install appium
     pip install opencv-python
     pip install pyautogui
-3.  安装 Appium Server
+```
+4.  安装 Appium Server
+```
     npm install -g appium
     appium
-4. 配置 Appium 连接模拟器
-    使用该命令，链接模拟器：bash：adb devices
-   
+```
+6. 配置 Appium 连接模拟器
+    使用该命令，链接模拟器
+   ```
+   adb devices
+   ```   
 ### 使用脚本控制tiktok
     使用tiktok_test.py脚本打开 TikTok、模拟滑动刷视频
     使用tiktok_upload.py来上传视频（尚未实现）
