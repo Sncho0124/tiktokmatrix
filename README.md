@@ -8,7 +8,7 @@
 1. 下载模拟器：https://jp.ldplayer.net/?from=en
 2. 在模拟器中从 APKPure 下载 TikTok APK
 3. 在模拟器中启用开发者模式
-4. 配置模拟器说明
+4. 配置模拟器说明:https://docs.google.com/document/d/1P6JVwVRjpLgfG6dwtt36H9DYbmzjfOvtwKrr49CjLyA/edit?tab=t.0#heading=h.43e390xfijtn
 
 ###  配置 Appium连接模拟器
 1. 确保本地的python版本为3.9+；
